@@ -1,0 +1,6 @@
+.env
+.venv/
+.vscode/
+.ipynb_checkpoints/
+requirements.txt
+datasets/ds_s13_visits.csv
